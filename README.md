@@ -18,7 +18,9 @@ LDA(Linear Discriminant Analysis) model to predict which of the products has
 been shipped and which of the products has been canceled.
 
 ### Dataset Description:
-The dataset can be found here.
+The dataset link:
+https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+
 Feature Details:
 ORDER NUMBER: Order number of the product.
 QUANTITY ORDERED: Ordered quantity.
